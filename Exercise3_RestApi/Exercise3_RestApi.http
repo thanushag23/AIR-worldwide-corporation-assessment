@@ -1,0 +1,6 @@
+@Exercise3_RestApi_HostAddress = http://localhost:5140
+
+GET {{Exercise3_RestApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
