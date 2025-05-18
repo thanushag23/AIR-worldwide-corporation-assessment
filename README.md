@@ -1,7 +1,7 @@
 # AIR-worldwide-corporation-assessment
 # Senior Software Engineer Technical Test
 
-**Your Name:** Thanusha Reddy Gaddam
+**Name:** Thanusha Reddy Gaddam
 **Date Taking Test:** 2025-05-18  
 **Start Time:** 17:00  
 **Finish Time:**   
